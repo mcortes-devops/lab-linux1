@@ -13,3 +13,8 @@ El laboratorio va a cubrir:
 - Documentación técnica
 - Control de versiones con Git
 - Publicación en GitHub
+
+Estructura:
+- docs: carpeta donde se pondrá la documentación del proyecto.
+- scripts: carpeta donde se pondrán los scripts del proyecto.
+- evidences: carpeta donde se pondrán las evidencias del sistema funcionando.
